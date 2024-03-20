@@ -1,0 +1,152 @@
+Google - https://www.google.com/
+
+Google Advanced Search - https://www.google.com/advanced_search
+
+Google Search Guide - http://www.googleguide.com/print/adv_op_ref.pdf
+
+Bing - https://www.bing.com/
+
+Bing Search Guide - https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
+
+Yandex - https://yandex.com/
+
+DuckDuckGo - https://duckduckgo.com/
+
+DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
+
+Baidu - http://www.baidu.com/
+
+
+Dorks: 
+
+site:domain.com
+filetype:xlsx,pdf,
+-www (remove www)
+-forum (remove forum)
+intext: (in header text)
+allinurl: (in the url)
+
+allinurl:
+
+
+Filter	Description	Example
+allintext	Searches for occurrences of all the keywords given.	allintext:"keyword"
+intext	Searches for the occurrences of keywords all at once or one at a time.	intext:"keyword"
+inurl	Searches for a URL matching one of the keywords.	inurl:"keyword"
+allinurl	Searches for a URL matching all the keywords in the query.	allinurl:"keyword"
+intitle	Searches for occurrences of keywords in title all or one.	intitle:"keyword"
+allintitle	Searches for occurrences of keywords all at a time.	allintitle:"keyword"
+site	Specifically searches that particular site and lists all the results for that site.	site:"www.google.com"
+filetype	Searches for a particular filetype mentioned in the query.	filetype:"pdf"
+link	Searches for external links to pages.	link:"keyword"
+numrange	Used to locate specific numbers in your searches.	numrange:321-325
+before/after	Used to search within a particular date range.	filetype:pdf & (before:2000-01-01 after:2001-01-01)
+allinanchor (and also inanchor)	This shows sites which have the keyterms in links pointing to them, in order of the most links.	inanchor:rat
+allinpostauthor (and also inpostauthor)	Exclusive to blog search, this one picks out blog posts that are written by specific individuals.	allinpostauthor:"keyword"
+related	List web pages that are “similar” to a specified web page.	related:www.google.com
+cache	Shows the version of the web page that Google has in its cache.	cache:www.google.com
+
+
+Breached Creds:
+
+WeLeakInfo - https://weleakinfo.to/v2/
+
+LeakCheck - https://leakcheck.io/
+
+SnusBase - https://snusbase.com/
+
+Scylla.sh - https://scylla.sh/
+
+HaveIBeenPwned - https://haveibeenpwned.com/
+
+Usernames and Accounts
+
+NameChk - https://namechk.com/
+
+WhatsMyName - https://whatsmyname.app/
+
+NameCheckup - https://namecheckup.com/
+
+People Search
+
+WhitePages - https://www.whitepages.com/
+
+TruePeopleSearch - https://www.truepeoplesearch.com/
+
+FastPeopleSearch - https://www.fastpeoplesearch.com/
+
+FastBackgroundCheck - https://www.fastbackgroundcheck.com/
+
+WebMii - https://webmii.com/
+
+PeekYou - https://peekyou.com/
+
+411 - https://www.411.com/
+
+Spokeo - https://www.spokeo.com/
+
+That'sThem - https://thatsthem.com/
+
+Voter Records 
+
+Voter Records - https://www.voterrecords.com
+
+Phone Numbers:
+
+TrueCaller - https://www.truecaller.com/
+
+CallerID Test - https://calleridtest.com/
+
+Infobel - https://infobel.com/
+
+
+Website Enumeration
+
+#Website built with
+BuiltWith - https://builtwith.com/
+
+#domain tools
+Domain Dossier - https://centralops.net/co/
+
+#domain tools
+DNSlytics - https://dnslytics.com/reverse-ip
+
+#domain tools
+SpyOnWeb - https://spyonweb.com/
+
+Virus Total - https://www.virustotal.com/
+
+#look for website changes
+Visual Ping - https://visualping.io/
+
+#look for web references
+Back Link Watch - http://backlinkwatch.com/index.php
+
+#dns lookups
+View DNS - https://viewdns.info/
+
+#URL Scan
+urlscan.io - https://urlscan.io/
+
+#DNS Mapping
+DNSdumpster - https://dnsdumpster.com/
+
+#Awesome website information
+Web Check - https://web-check.as93.net/
+
+crt.sh - https://crt.sh/
+
+Corporate Information
+
+Open Corporates - https://opencorporates.com/
+
+AI HIT - https://www.aihitdata.com/
+
+
+Phone Numbers Command line
+
+phoneinfoga 
+
+Username lookup command line
+
+sherlock
